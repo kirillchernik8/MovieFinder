@@ -11,7 +11,6 @@ import {
 } from "react-native";
 import key from "./key.js";
 import Movie from "./Movie.js";
-import { Map } from "immutable";
 import "isomorphic-fetch";
 import {
   widthPercentageToDP as wp,
